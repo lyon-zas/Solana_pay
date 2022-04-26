@@ -6,7 +6,7 @@ export const products = [
     unitName: 'box', // shows after the price, eg. 0.05 SOL/box
     priceSol: 0.05,
     priceUsd: 5,
-  },
+},
   {
     id: 'basket-of-cookies',
     name: 'Basket',
